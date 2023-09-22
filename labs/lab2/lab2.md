@@ -20,4 +20,4 @@ course: cis 106 linux fundemntals
 
 ## question 5
 ![q5](2023-09-22_02-32.png)
-![q5](2023-09-22_02-32.png)
+![q5](2023-09-22_02-36.png)
